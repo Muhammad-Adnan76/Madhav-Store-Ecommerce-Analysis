@@ -1,4 +1,4 @@
-# Store-Dashboard_Power_BI.
+# Store_Dashboard_Power_BI.
 My first data analysis in Power BI **Madhav Store Ecommerce Data**
 
 Creating a dashboard in Power BI as a beginner can be a rewarding experience. Power BI is a powerful data visualization tool that allows you to transform raw data into meaningful insights. Here's a step-by-step guide to help you get started:
